@@ -8,17 +8,15 @@ Tecnologias:
 -typescript
 -Tailwindcss.
 
-#Requisitos:
+#instalando as dependencias:
+-npm install
 
-// instalando as dependencias:
-npm install
-// ou 
-yarn install
+-yarn install
 
-// executando o projeto:
-npm dev
-// ou
-yarn dev 
+#executando o projeto:
+-npm dev
+
+-yarn dev 
 -
 
 #Ultilizando o Google agenda e integrando:
