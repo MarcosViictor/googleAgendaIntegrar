@@ -21,8 +21,6 @@ npm dev
 yarn dev 
 ```
 
--
-
 #Ultilizando o Google agenda e integrando:
 - Abra o link https://calendar.google.com/calendar/u/0/r
 - Vá na engrenagem no canto superio direito.
