@@ -10,13 +10,12 @@ Tecnologias:
 
 #instalando as dependencias:
 -npm install
-
 -yarn install
 
 #executando o projeto:
 -npm dev
-
 -yarn dev 
+
 -
 
 #Ultilizando o Google agenda e integrando:
