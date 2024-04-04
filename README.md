@@ -9,14 +9,17 @@ Tecnologias:
 -Tailwindcss.
 
 #instalando as dependencias:
--npm install
+```jsx
+// instalando as dependencias:
+npm install
+// ou 
+yarn install
 
--yarn install
-
-#executando o projeto:
--npm dev
-
--yarn dev 
+// executando o projeto:
+npm dev
+// ou
+yarn dev 
+```
 
 -
 
