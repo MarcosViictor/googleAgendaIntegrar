@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #4682B4;
+}
+.conteiner-calendar{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 100%;
+}
+
+.calendar{
+  border: solid 1px #777;
+  width: 800px;
+  height: 600px;
+}
+@media only screen and (max-width: 768px) {
+  /* Adicione aqui os estilos específicos para dispositivos móveis */
+  .calendar{
+      border: solid 1px #777;
+      width: 300px;
+      height: 300px;
+      
+      }
+  /* Outros estilos específicos para dispositivos móveis */
+}
